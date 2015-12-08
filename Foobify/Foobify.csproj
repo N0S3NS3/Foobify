@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers.cs" />
+    <Compile Include="Spotify\IRestify.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spotify\Restify.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

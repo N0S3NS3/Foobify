@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Net.Http;
 
-namespace Foobify
+namespace Spotify
 {
     interface IRestify
     {

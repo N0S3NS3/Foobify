@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Foobify
+namespace Foobify.Spotify
 {
-    class Program
+    class SpotifyHandler
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
